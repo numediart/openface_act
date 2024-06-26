@@ -2,6 +2,7 @@
 
 We will try to keep this version up to date with the official version of openface, but we can't guarantee that it will be always up to date.
 
+You may need to get opencv dll that we can't push to this repo due to its size, you will find it in the official openface repo or [opencv DLL](https://github.com/Pierre-LucM/opencv_dll).
 
 # OpenFace 2.2.0: a facial behavior analysis toolkit 
 
