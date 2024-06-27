@@ -4,6 +4,11 @@ We will try to keep this version up to date with the official version of openfac
 
 You may need to get opencv dll that we can't push to this repo due to its size, you will find it in the official openface repo or [opencv DLL](https://github.com/Pierre-LucM/opencv_dll).
 
+> [!WARNING]
+> You need to put the `config.xml` in  the folder `x64\Release\` (you have to compile first)
+> Make sure the room id exist before you launch openfaceOffline
+
+
 # OpenFace 2.2.0: a facial behavior analysis toolkit 
 
 [![Build Status](https://travis-ci.org/TadasBaltrusaitis/OpenFace.svg?branch=master)](https://travis-ci.org/TadasBaltrusaitis/OpenFace)
